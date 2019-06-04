@@ -1,0 +1,1 @@
+# hive-jdbc-based-on-uber-jar
